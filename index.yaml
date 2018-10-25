@@ -1,9 +1,19 @@
 apiVersion: v1
 entries:
+  alpine:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-10-25T11:52:27.564116913+08:00
+    description: A Helm chart for Kubernetes
+    digest: d6654b29b1564ba7636ccf5074423dc4ea5270bc91c33d71ef74f9f2edcaf58a
+    name: alpine
+    urls:
+    - https://zhangyan1298.github.io/gh-pages/alpine-0.1.0.tgz
+    version: 0.1.0
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-25T11:41:58.099694773+08:00
+    created: 2018-10-25T11:52:27.56451512+08:00
     description: A Helm chart for Kubernetes
     digest: f5972b531d284f9f99608e20bd0e53e569facab3121df0eba106317325a19f6d
     name: nginx
@@ -13,11 +23,11 @@ entries:
   test1:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-25T11:41:58.100030989+08:00
+    created: 2018-10-25T11:52:27.56478872+08:00
     description: A Helm chart for Kubernetes
     digest: 0023fe1456f93fed36bde79f1f84e5e3807e654f391396e919cea9a01b3f1bdb
     name: test1
     urls:
     - https://zhangyan1298.github.io/gh-pages/test1-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-25T11:41:58.099194403+08:00
+generated: 2018-10-25T11:52:27.563575341+08:00
