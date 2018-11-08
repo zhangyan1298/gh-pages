@@ -3,7 +3,7 @@ entries:
   alpine:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-08T17:25:36.593016932+08:00
+    created: 2018-11-08T17:27:36.43337215+08:00
     description: A Helm chart for Kubernetes
     digest: d6654b29b1564ba7636ccf5074423dc4ea5270bc91c33d71ef74f9f2edcaf58a
     name: alpine
@@ -11,7 +11,7 @@ entries:
     - https://zhangyan1298.github.io/gh-pages/alpine-0.1.0.tgz
     version: 0.1.0
   gitlab-runner:
-  - created: 2018-11-08T17:25:36.593773208+08:00
+  - created: 2018-11-08T17:27:36.434181074+08:00
     description: GitLab Runner
     digest: e88910303f086bd1a39cea6894e0980a0c1c1b117e1c5296bdadf14549c98f46
     icon: https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png
@@ -34,7 +34,7 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-08T17:25:36.594158846+08:00
+    created: 2018-11-08T17:27:36.434603523+08:00
     description: A Helm chart for Kubernetes
     digest: f5972b531d284f9f99608e20bd0e53e569facab3121df0eba106317325a19f6d
     name: nginx
@@ -44,11 +44,11 @@ entries:
   test1:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-11-08T17:25:36.594542744+08:00
+    created: 2018-11-08T17:27:36.434906578+08:00
     description: A Helm chart for Kubernetes
     digest: 0023fe1456f93fed36bde79f1f84e5e3807e654f391396e919cea9a01b3f1bdb
     name: test1
     urls:
     - https://zhangyan1298.github.io/gh-pages/test1-0.1.0.tgz
     version: 0.1.0
-generated: 2018-11-08T17:25:36.591937432+08:00
+generated: 2018-11-08T17:27:36.432886036+08:00
