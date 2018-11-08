@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  gitlab-runner:
+  - created: 2018-11-08T17:04:27.544586099+08:00
+    description: GitLab Runner
+    digest: e88910303f086bd1a39cea6894e0980a0c1c1b117e1c5296bdadf14549c98f46
+    icon: https://gitlab.com/uploads/-/system/project/avatar/250833/runner_logo.png
+    keywords:
+    - git
+    - ci
+    - deploy
+    maintainers:
+    - email: support@gitlab.com
+      name: GitLab Inc.
+    - email: dj@gitlab.com
+      name: DJ Mountney
+    name: gitlab-runner
+    sources:
+    - https://hub.docker.com/r/gitlab/gitlab-runner/
+    - https://docs.gitlab.com/runner/
+    urls:
+    - https://zhangyan1298.github.io/gh-pages/gitlab-runner-0.1.37.tgz
+    version: 0.1.37
+generated: 2018-11-08T17:04:27.543330073+08:00
